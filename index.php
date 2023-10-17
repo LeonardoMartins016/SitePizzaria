@@ -6,7 +6,7 @@ include_once "process/pizza.php";
 
 <div id="main-banner">
     <h1>Faça seu Pedido</h1>
-
+    <h2>Léo Lindo</h2>
 </div>
 <div id="main-container">
     <div class="container">
